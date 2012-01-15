@@ -1,0 +1,15 @@
+
+                    Simple Calculator
+
+Performs Addition or Subtraction on hex numbers up to 16-bits and displays the result in both signed hex and BCD formats.
+
+Usage:
+     i) insert the first number (1 to 4 digits(0-9, A-F) )
+    ii) insert the operator (+ or -)
+   iii) insert the second number (1 to 4 digits(0-9, A-F) )
+    iv) hit enter
+
+
+               Files:
+calc.asm       ; the main assembly code
+library.inc    ; input-output functions
