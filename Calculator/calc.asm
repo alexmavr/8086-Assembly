@@ -347,6 +347,8 @@ CHECKNUM:
    DONE0:    RET               ;O ari8mos menei ston AL
 
 		  
-     THE_END:HLT
+     THE_END:
+	MOV AL,4CH
+	INT 21H
 CODE ENDS
 END
