@@ -1,7 +1,7 @@
-
-                    Simple Calculator
+                                        Simple Calculator
 
 Performs Addition or Subtraction on hex numbers up to 16-bits and displays the result in both signed hex and BCD formats.
+Assemble with MASM.
 
 Usage:
      i) insert the first number (1 to 4 digits(0-9, A-F) )
